@@ -8,7 +8,7 @@ This project focuses on gunshot localization in urban environments, addressing t
 
 The repository contains the following files:
 
-- **'DDP1_report.pdf`** - Detailed report covering the project's objectives, methodology, experiments, and findings.
+- **`DDP1_report.pdf`** - Detailed report covering the project's objectives, methodology, experiments, and findings.
 - **`DDP_classify.ipynb`** - Jupyter Notebook for firearm classification using machine learning techniques.
 - **`DDP.ipynb`** - Jupyter Notebook implementing gunshot localization techniques using trilateration and machine learning models.
 - **`R&D.ipynb`** - Jupyter Notebook for exploratory research and additional analysis on the dataset.
